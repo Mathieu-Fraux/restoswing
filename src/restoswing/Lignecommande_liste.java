@@ -11,10 +11,7 @@ import java.net.http.HttpResponse;
 import java.util.ArrayList;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author FM504305
- */
+
 public class Lignecommande_liste extends javax.swing.JDialog {
 
        Commande commande; // Région sélectionnée et transmise par la fenêtre region_liste

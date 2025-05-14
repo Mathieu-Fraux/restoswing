@@ -6,10 +6,7 @@ package restoswing;
 
 import org.json.JSONObject;
 
-/**
- *
- * @author FM504305
- */
+
 public class LigneCommande {
 
     private int id_ligne;

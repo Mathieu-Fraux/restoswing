@@ -15,10 +15,7 @@ import javax.swing.table.DefaultTableModel;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-/**
- *
- * @author FM504305
- */
+
 public class Commande_liste extends javax.swing.JFrame {
 
     ArrayList<Commande> commandes; // Collection des régions

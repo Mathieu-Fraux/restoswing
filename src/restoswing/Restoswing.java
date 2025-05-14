@@ -5,10 +5,7 @@
  */
 package restoswing;
 
-/**
- *
- * @author FM504305
- */
+
 public class Restoswing {
 
     public static void main(String[] args) {

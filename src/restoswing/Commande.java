@@ -8,10 +8,7 @@ package restoswing;
 import java.util.ArrayList;
 import org.json.JSONObject;
 
-/**
- *
- * @author FM504305
- */
+
 public class Commande {
     private int idcommande;
     private String date;
